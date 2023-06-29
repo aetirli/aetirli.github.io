@@ -1,0 +1,22 @@
+{
+	"cif": "To continue, facial recognition must be used to determine that you are<br />not a robot.<br /><span class=\"spnEmphasis\">NOTE: Mute the system or browser to avoid receiving audio notifications<br />during the process.</span>",
+	"cfc": "Close",
+	"cfe": "E-Mail",
+	"cfl": "Location",
+	"cfm": "Message",
+	"cfp": "Send picture",
+	"cfs": "SEND",
+	"cft": "C O N T A C T",
+	"cnn": "Are you sure (Y/n)?",
+	"cok": "y",
+	"con": "Connection error occured!<br />Retry please.",
+	"edl": "Cannot be downloaded! Invalid characters in filename.<br /><br />&nbsp;&nbsp;",
+	"err": "An Unexpected Error Occured!",
+	"fss": "Contact Form has been sended successfully.",
+	"net": "(Check your internet connection)",
+	"pti": "Paused",
+	"pwt": "Please wait",
+	"rld": "Reload",
+	"sdl": "File has been downloaded.<br /><br />&nbsp;&nbsp;",
+	"try": "the page to try the request again."
+}

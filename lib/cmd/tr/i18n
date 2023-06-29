@@ -1,0 +1,22 @@
+{
+	"cif": "Devam etmek için yüz tanıma ile robot olmadığınız tespit edilmelidir.<br /><span class=\"spnEmphasis\">NOT: İşlem boyunca sesli bildirimleri almamak için sistem veya tarayıcı<br />sesini kapatın.</span>",
+	"cfc": "Kapat",
+	"cfe": "E-Posta",
+	"cfl": "Konum",
+	"cfm": "Mesaj",
+	"cfp": "Resmi gönder",
+	"cfs": "GÖNDER",
+	"cft": "İ L E T İ Ş İ M",
+	"cnn": "Emin misiniz (E/h)?",
+	"cok": "e",
+	"con": "Bağlantı hatası meydana geldi!<br />Lütfen yeniden deneyin.",
+	"edl": "İndirilemiyor! Dosya adında geçersiz karakterler var.<br /><br />&nbsp;&nbsp;",
+	"err": "Beklenmeyen Bir Hata Oluştu!",
+	"fss": "İletişim Formu başarılı bir biçimde gönderildi.",
+	"net": "(İnternet bağlantınızı kontrol edin)",
+	"pti": "Duraklatıldı",
+	"pwt": "Lütfen bekleyin",
+	"rld": "Yenile",
+	"sdl": "Dosya indirildi.<br /><br />&nbsp;&nbsp;",
+	"try": "isteği tekrar denemek için."
+}
