@@ -2,13 +2,16 @@
 [aetirli.github.io](https://aetirli.github.io/)
 --
 **Languages**
+
 Turkish and English are available on user interface.
 
 **System Requirements**
+
 ECMAScript 6 or newer version compatability web browser 
 Min. 700 x 450 px screen resolution
 
 **Browser Compatibility***
+
 |Rendering Engine |Desktop|Mobile|
 |--|--|--|
 |Blink|95%|90%|
@@ -19,6 +22,7 @@ Min. 700 x 450 px screen resolution
 * See *Known Issues* for missing percentages about compatibility.
 ---
 **Known Issues**
+
 December 2023
 
  - Prompt text is so small on mobile devices
