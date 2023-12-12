@@ -9,7 +9,7 @@ Turkish and English are available on user interface.
 
 **System Requirements**
 
-ECMAScript 6 or newer version compatability web browser 
+ECMAScript 6 or newer version compatability web browser \
 Min. 700 x 450 px screen resolution
 
 **Browser Compatibility***
