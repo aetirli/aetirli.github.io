@@ -29,4 +29,3 @@ December 2023
 
  - Prompt text is so small on mobile devices.
  - Detected face image capture fails occasionally.
- - Firefox not posts contact form data utterly.
