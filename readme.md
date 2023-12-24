@@ -1,7 +1,7 @@
 **Start Here**
 [aetirli.github.io](https://aetirli.github.io/)
 --
-Current Release: Version 1.3 (2023-12-24)
+Current Release: Version 1.2 (2023-12-11)
 
 **Languages**
 
@@ -29,3 +29,18 @@ December 2023
 
  - Prompt text is so small on mobile devices.
  - Detected face image capture fails occasionally.
+ - Firefox not posts contact form data utterly.
+
+ **Serverless**
+
+ By courtesy of:
+ - GitHub Pages
+ - Deno Deploy
+ - Supabase
+
+ Special Thanks to
+ - Microsoft Command Prompt UI & Cascadia Code Font Family
+ - Pico JS (https://github.com/nenadmarkus/picojs)
+ - html2pdf.js (https://github.com/eKoopmans/html2pdf.js)
+ - PWA (Google)
+ - obfuscator.io
