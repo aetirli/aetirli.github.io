@@ -1,8 +1,0 @@
-Kullanıcı arayüzü dilini değiştirir.
-
-LANGUAGE [command]
-
-command        - mümkünse tarayıcının diline ayarlar, değil ise İngilizce.
-command > attr - dili [attr] içinde verilen ülke koduna göre ayarlar
-
-          <span class="spnEmphasis">{{ available }}</span> kullanılabilir.
