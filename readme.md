@@ -1,7 +1,7 @@
 **Start Here**
 [aetirli.github.io](https://aetirli.github.io/)
 --
-Current Release: Version 1.2 (2023-12-11)
+Current Release: Version 1.3 (2023-12-23)
 
 **Languages**
 
