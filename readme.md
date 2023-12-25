@@ -29,7 +29,8 @@ December 2023
 
  - Prompt text is so small on mobile devices.
  - Detected face image capture fails occasionally.
- - Firefox not posts contact form data utterly.
+
+---
 
  **Serverless**
 
@@ -38,7 +39,7 @@ December 2023
  - Deno Deploy
  - Supabase
 
- Special Thanks to
+ Special thanks to
  - Microsoft Command Prompt UI & Cascadia Code Font Family
  - Pico JS (https://github.com/nenadmarkus/picojs)
  - html2pdf.js (https://github.com/eKoopmans/html2pdf.js)
