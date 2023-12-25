@@ -1,7 +1,0 @@
-Belirli bir komut hakkında daha fazla bilgi için HELP komut-adı yazın
-CLS            Ekranı temizler.
-COLOR          Varsayılan konsol ön plan ve arka plan renklerini ayarlar.
-CONTACT        Yeni bir iletişim formu açar.
-HELP           Komutlar için Yardım bilgisi sağlar.
-LANGUAGE       Kullanıcı arayüzü dilini değiştirir. 
-RESUME         Özgeçmişi görüntüler veya indirir.{{ disclaimer }}
