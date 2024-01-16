@@ -5,12 +5,12 @@ Current Release: Version 1.3 (2023-12-26)
 
 **Languages**
 
-Turkish and English are available on user interface.
+The user interface is available in Turkish and English.
 
 **System Requirements**
 
 ECMAScript 6 or newer version compatability web browser \
-Min. 700 x 450 px screen resolution
+Minimum 700 x 450 px screen resolution
 
 **Browser Compatibility***
 
@@ -21,23 +21,23 @@ Min. 700 x 450 px screen resolution
 |WebKit|90%|90%|
 |Others|?|?|
 
-* See *Known Issues* for missing percentages about compatibility.
+* See *Known Issues* for missing percentages related to compatibility.
 ---
 **Known Issues**
 
-December 2023
+January 2024
 
  - Prompt text is so small on mobile devices.
  - Detected face image capture fails occasionally.
 
  **Serverless**
 
- By courtesy of:
+ Courtesy of:
  - GitHub Pages
  - Deno Deploy
  - Supabase
 
- Special Thanks to
+ Special thanks to:
  - Microsoft Command Prompt UI & Cascadia Code Font Family
  - Pico JS (https://github.com/nenadmarkus/picojs)
  - html2pdf.js (https://github.com/eKoopmans/html2pdf.js)
