@@ -1,2 +1,0 @@
-En az {{ minWidth }} x {{ minHeight }} px çözünürlük gerekli.<br />
-Görüntülenen: <span class="spnEmphasis">&nbsp;{{ currentWidth }} x {{ currentHeight }}&nbsp;</span> px.

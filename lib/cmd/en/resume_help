@@ -1,6 +1,0 @@
-Provides resume information.
-
-RESUME [command]
-
-    command        - displays a concise CV.
-    command > attr - downloads resume as [attr].pdf

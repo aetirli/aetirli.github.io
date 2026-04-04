@@ -1,7 +1,0 @@
-For more information on a specific command, type HELP command-name
-CLS            Clears the screen.
-COLOR          Sets the default console foreground and background colors.
-CONTACT        Opens a new contact form.
-HELP           Provides Help information for commands.
-LANGUAGE       Changes user interface language. 
-RESUME         Displays or downloads the resume.{{ disclaimer }}
