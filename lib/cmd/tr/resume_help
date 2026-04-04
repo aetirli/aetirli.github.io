@@ -1,0 +1,6 @@
+Özgeçmiş bilgilerini sağlar.
+
+RESUME [command]
+
+    command - kısa bir özgeçmiş görüntüler.
+    command > attr - özgeçmişi [attr].pdf olarak indirir

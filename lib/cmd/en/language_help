@@ -1,0 +1,8 @@
+Changes user interface language.
+
+LANGUAGE [command]
+
+command        - sets browser's language if possible else English.
+command > attr - sets language by country code given in [attr]
+
+          <span class="spnEmphasis">{{ available }}</span> available.

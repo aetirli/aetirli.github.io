@@ -1,0 +1,2 @@
+Minimum {{ minWidth }} x {{ minHeight }} px resolution is required.<br />
+Displaying: <span class="spnEmphasis">&nbsp;{{ currentWidth }} x {{ currentHeight }}&nbsp;</span> px.
