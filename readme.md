@@ -1,10 +1,10 @@
-## **Start Here** [aetirli.github.io](https://aetirli.github.io/)
+## [aetirli.github.io](https://aetirli.github.io/)
 
 Current Release: Version 1.4 (2026-04-04)
 
 **Languages**
 
-Turkish and English are available on user interface.
+Turkish and English are available.
 
 **System Requirements**
 
@@ -33,7 +33,7 @@ December 2023
 
 **Serverless**
 
-By courtesy of:
+Courtesy of:
 
 - GitHub Pages
 - Deno Deploy
